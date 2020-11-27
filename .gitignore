@@ -1,2 +1,4 @@
 *.sqlite3
-media/
+venv
+.idea
+/media/profile_pics/
